@@ -1,0 +1,11 @@
+{
+  "name": "Lector de QR por Imagen",
+  "description": "Sube o arrastra una imagen con un código QR para decodificarlo automáticamente.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
